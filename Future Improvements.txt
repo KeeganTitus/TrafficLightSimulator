@@ -1,0 +1,3 @@
+Improve graphics and textures.
+Make GUI scalable to larger displays.
+Connect multiple intersections to test new system validity.
